@@ -1,3 +1,2 @@
 # ecmascript
-Avance Repaso EcmaScript
-Usando Kali Linux
+Avance Repaso EcmaScript- Usando Kali Linux
